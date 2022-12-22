@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    background:rgb(27, 27, 27);
+    font: normal 16px 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #86898f;
+}
+a {
+    color: rgb(184, 16, 16);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+|
+h1 {
+    color: #86898f;
+}
+h2 {
+    color: #86898f;
+}
+h4 {
+    color: #86898f;
+}
+p {
+    color: #86898f;
+}
+li {
+    color: #86898f;
+}
+table {
+    color: #86898f;
+}
+label {
+    color: #86898f;
+}
+input {
+    color: #86898f;
+}
+.avatar {
+    width: 200px;
+    border-radius: 18px;
+    box-shadow: 4px 4px 14px rgb(27, 27, 27);
+}
+.info {
+  margin-bottom: 25px;  
+}
+.info {
+    color: #86898f;
+    font-weight: bold;
+}
+
+.container {
+    max-width: 750px;
+    margin: auto;
+}
+.card {
+ background: rgb(17, 17, 17);
+ padding: 30px 20px;   
+ margin-bottom: 20px;
+ border-radius: 20px;
+}
+.card h2 {
+    margin-bottom: 15px;
+}
+.list {
+    padding: 0 20px;
+}
+.list li {
+    margin-bottom: 10px;
+}
+.table {
+    width: 100%;
+}
+.table td {
+    padding-bottom: 5px;
+}
+.table th, 
+.table td {
+    border-bottom: 1px rgb(184, 16, 16) solid;
+}
+.blender h1 {
+    color: #86898f;
+}
+.contact h2 {
+    text-align: center;
+}
+.blender  {
+    font-size: 25px;
+}
+.container {
+    color: #86898f;
+}
+.contact {
+    text-align: center;
+}
+.form-group label {
+ display: block;
+ font-size: 14px;
+}
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid rgb(255, 0, 0);
+    color: #86898f;
+    outline: none;
+    font-family: inherit;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+.submit1 input {
+background: transparent;
+border-color:  rgb(184, 16, 16);
+padding: 15px 20px;
+font-weight: bold;
+}
+.submit1 :hover {
+    cursor: pointer;
+    color: rgb(184, 16, 16);
+}
